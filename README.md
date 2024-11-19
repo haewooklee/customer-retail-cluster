@@ -7,7 +7,7 @@ This report shows a set of Jupyter Notebooks (using Python) that I used to analy
 Here are the different notebooks:
 * [Data Exploration](https://github.com/haewooklee/customer-retail-cluster/blob/main/notebook/3%20Data%20Explore.ipynb): Data cleaning and EDA.
 * [Customer Segmentation](https://github.com/haewooklee/customer-retail-cluster/blob/main/notebook/3%20Data%20segmentation.ipynb): Segmenting the customers by Ages and Gender to target marketing.
-* [K-Means Clustering](https://github.com/haewooklee/customer-retail-cluster/blob/main/notebook/3-Clustering%20and%20marketing.ipynb): Segmenting the customers with K-Means Clustering and PCA for further analysis.
+* [K-Means Clustering](https://github.com/haewooklee/customer-retail-cluster/blob/main/notebook/3-Clustering%20and%20marketing.ipynb): Segmenting the customers with K-Means Clustering and PCA for further analysis and recommend marketing strategies.
 
 
 ## Requirements
