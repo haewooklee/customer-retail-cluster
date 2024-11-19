@@ -1,8 +1,8 @@
-# Customer Retail Cluster
+# Customer Retail Cluster (python) 
 
 ## Overview
 
-This report shows a set of Jupyter Notebooks that I used to analyze the [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data). The [dataset](https://github.com/haewooklee/customer-retail-cluster/blob/main/data/shopping_behavior_updated.csv) contains 3900 rows and 18 columns. I mainly focused on the customers' shopping habits such as Shipping Preferences by Demographics, Categories by Gender, and correlation analysis. I segmented customers using two approaches: by age and gender, and through K-Means Clustering for targeted marketing.
+This report shows a set of Jupyter Notebooks (using Python) that I used to analyze the [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data). The [dataset](https://github.com/haewooklee/customer-retail-cluster/blob/main/data/shopping_behavior_updated.csv) contains 3900 rows and 18 columns. I mainly focused on the customers' shopping habits such as Shipping Preferences by Demographics, Categories by Gender, and correlation analysis. I segmented customers using two approaches: by age and gender, and through K-Means Clustering for targeted marketing.
 
 Here are the different notebooks:
 * [Data Exploration](https://github.com/haewooklee/customer-retail-cluster/blob/main/notebook/3%20Data%20Explore.ipynb): Data cleaning and EDA.
