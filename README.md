@@ -1,5 +1,7 @@
 # Customer Retail Cluster
 
+## Overview
+
 This report shows a set of Jupyter Notebooks that I used to analyze the [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data). The [dataset](https://github.com/haewooklee/customer-retail-cluster/blob/main/shopping_behavior_updated.csv) contains 3900 rows and 18 columns. I mainly focused on the customers' shopping habits and segmented them by Ages and Gender to target marketing. Also, I applied K-Means Clustering and PCA for segmenting the customers in different ways. 
 
 Here are the different notebooks:
